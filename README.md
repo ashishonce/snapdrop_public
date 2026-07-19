@@ -4,6 +4,8 @@
 Snapdrop is a local-first desktop photo library app for organizing, browsing, and searching your photos.
 This repository is the public release repository. It is intended for end users who want to download and run Snapdrop.
 
+<img width="1510" height="848" alt="Screenshot 2026-07-19 at 7 20 44 PM" src="https://github.com/user-attachments/assets/c76b0e1f-ac43-404c-b890-237cb9af6ee4" />
+
 ## Highlights
 
 - Local-first photo management (your files stay on your machine)

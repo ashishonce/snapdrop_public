@@ -1,7 +1,6 @@
-# snapdrop_public
-# Snapdrop
+# Snapdrop - Public
 
-Snapdrop is a local-first desktop photo library app for organizing, browsing, and searching your photos.
+Snapdrop is a local-first desktop photo library app for organizing, browsing, and searching your photos.It has been developed with security and privacy first mindset to allow all processing within your desktop so no data leaves your machine. 
 This repository is the public release repository. It is intended for end users who want to download and run Snapdrop.
 
 <img width="1510" height="848" alt="Screenshot 2026-07-19 at 7 20 44 PM" src="https://github.com/user-attachments/assets/c76b0e1f-ac43-404c-b890-237cb9af6ee4" />
@@ -93,6 +92,11 @@ spctl -a -vv "/Applications/Snapdrop.app"
 - Snapdrop is designed to run locally.
 - Photo indexing data stays on your machine.
 - AI processing in current builds runs locally using local runtime components.
+
+## Upcoming
+- mcp server so you can query you images from agents in natural language
+- support for X86 and Windows
+- Supporting more models
 
 ## License
 

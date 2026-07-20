@@ -99,6 +99,5 @@ spctl -a -vv "/Applications/Snapdrop.app"
 - Supporting more models
 
 ## License
-
-Add your project license here (for example, MIT).
+Software is free to use for personal needs
 
